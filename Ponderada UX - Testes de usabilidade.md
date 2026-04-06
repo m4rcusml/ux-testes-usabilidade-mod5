@@ -28,6 +28,10 @@ Abaixo está o objetivo do teste, a tela de configurar a quantidade de recursos 
 
 ## 5) Conjunto de perguntas
 
-3 a 5 perguntas organizadas na lógica do funil
+1. Olhando para esta interface inicial, onde você iria se quisesse ajustar como os recursos são distribuídos para cada nível de risco?
+2. Ao entrar em Configurações, o que você espera encontrar na seção Nível de Risco?
+3. Sem orientação, como você faria para configurar a quantidade de recursos para cada nível de risco?
+4. Em algum momento você ficou em dúvida sobre onde clicar ou sobre o que precisava ser preenchido?
+5. No fim, o que você acha que essa configuração vai impactar no sistema?
 
 # Testes
