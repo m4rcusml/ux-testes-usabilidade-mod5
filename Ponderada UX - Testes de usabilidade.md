@@ -16,15 +16,15 @@ Navegar entre as telas corretas (configurações) e realizar a configuração co
 
 A tela abaixo é a primeira tela de configurações, o usuário provavelmente clicará em configurações na sidebar e entrará nessa tela.
 
-![[img_testes-de-usabilidade01.png]]
+![](img_testes-de-usabilidade01.png)
 
 A tela abaixo é a segunda tela que o usuário deve entrar, para isso ele precisa clicar em Nível de Risco.
 
-![[img_testes-de-usabilidade02.png]]
+![](img_testes-de-usabilidade02.png)
 
 Abaixo está o objetivo do teste, a tela de configurar a quantidade de recursos alocados para cada nível de risco.
 
-![[img_testes-de-usabilidade03.png]]
+![](img_testes-de-usabilidade03.png)
 
 ## 5) Conjunto de perguntas
 
